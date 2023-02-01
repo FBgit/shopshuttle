@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /siteadmin
+Sitemap: http://shop.bikeshuttleservice.de/sitemap.xml
